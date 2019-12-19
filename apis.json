@@ -1,0 +1,46 @@
+{
+    "name": "DapperDox",
+    "description": "Build the ultimate developer experience - Create rich, browsable reference documentation and guides for your APIs",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28204-dapperdox.jpg",
+    "tags": [
+        "api service provider",
+        "api tools",
+        "documentation",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/dapperdox\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "DapperDox",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28204-dapperdox.jpg",
+            "humanURL": "http:\/\/dapperdox.io",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/dapperdox-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/DapperDox"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/DapperDox"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/dapperdox.io"
+        }
+    ]
+}

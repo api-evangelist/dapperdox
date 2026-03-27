@@ -1,0 +1,46 @@
+aid: dapperdox
+name: DapperDox
+description: >-
+  DapperDox is an open-source API documentation generator that creates
+  beautiful, customizable reference documentation from OpenAPI specifications.
+  It supports theming, overlays, and cross-referencing across multiple API
+  specifications, making it suitable for teams managing complex API ecosystems.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Documentation
+  - OpenAPI
+  - Open Source
+  - API Reference
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/dapperdox/refs/heads/main/apis.yml
+created: '2026-03-27'
+modified: '2026-03-27'
+specificationVersion: '0.19'
+apis:
+  - aid: dapperdox:dapperdox
+    name: DapperDox
+    description: >-
+      DapperDox is an open-source API documentation generator that renders
+      beautiful, customizable reference docs from OpenAPI specifications with
+      support for themes, overlays, and cross-referencing.
+    humanURL: https://dapperdox.io/
+    tags:
+      - Documentation
+      - OpenAPI
+      - Open Source
+    properties:
+      - type: Documentation
+        url: https://dapperdox.io/docs/
+      - type: Getting Started
+        url: https://dapperdox.io/docs/getting-started/
+common:
+  - type: Website
+    url: https://dapperdox.io/
+  - type: Documentation
+    url: https://dapperdox.io/docs/
+  - type: GitHub Organization
+    url: https://github.com/DapperDox
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

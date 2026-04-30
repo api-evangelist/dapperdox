@@ -1,0 +1,33 @@
+name: DapperDox Vocabulary
+description: >-
+  Vocabulary of terms used by DapperDox to describe its OpenAPI documentation
+  rendering, theming, and cross-referencing features.
+terms:
+  - term: Specification
+    definition: >-
+      An OpenAPI document loaded by DapperDox to be rendered as reference
+      documentation.
+  - term: Theme
+    definition: >-
+      A directory of templates and assets that controls the visual appearance
+      of the rendered documentation site.
+  - term: Overlay
+    definition: >-
+      Additional Markdown or asset content layered on top of an OpenAPI
+      specification to extend or override the rendered docs.
+  - term: Cross-Reference
+    definition: >-
+      A link from documentation in one specification to definitions or
+      operations in another specification served by the same instance.
+  - term: Reference Documentation
+    definition: >-
+      Auto-generated, navigable HTML documentation that describes an API's
+      operations, parameters, and schemas.
+  - term: Guide
+    definition: >-
+      Long-form Markdown content rendered alongside reference documentation
+      for tutorials, concepts, or how-to topics.
+  - term: API Group
+    definition: >-
+      A logical grouping of one or more specifications shown together in the
+      DapperDox UI.

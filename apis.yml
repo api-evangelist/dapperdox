@@ -21,7 +21,7 @@ url: >-
 created: '2026-03-27'
 modified: '2026-04-28'
 specificationVersion: '0.19'
-xType: opensource
+kind: opensource
 apis:
   - aid: dapperdox:dapperdox
     name: DapperDox
@@ -38,9 +38,9 @@ apis:
     properties:
       - type: Documentation
         url: https://dapperdox.io/docs/
-      - type: Getting Started
+      - type: GettingStarted
         url: https://dapperdox.io/docs/getting-started/
-      - type: GitHub Repository
+      - type: GitHubRepository
         url: https://github.com/DapperDox/dapperdox
       - type: Themes
         url: https://dapperdox.io/docs/customisation
@@ -49,9 +49,9 @@ common:
     url: https://dapperdox.io/
   - type: Documentation
     url: https://dapperdox.io/docs/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/DapperDox
-  - type: GitHub Repository
+  - type: GitHubRepository
     url: https://github.com/DapperDox/dapperdox
   - type: Vocabulary
     url: vocabulary/dapperdox-vocabulary.yml

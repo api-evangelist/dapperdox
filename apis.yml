@@ -8,7 +8,7 @@ description: >-
   DapperDox is a developer tool rather than a hosted service, so it does not
   expose its own public web API.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - API Reference
   - Documentation

@@ -45,6 +45,8 @@ apis:
       - type: Themes
         url: https://dapperdox.io/docs/customisation
 common:
+  - type: DomainSecurity
+    url: security/dapperdox-domain-security.yml
   - type: Website
     url: https://dapperdox.io/
   - type: Documentation

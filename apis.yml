@@ -57,6 +57,13 @@ apis:
       - type: Themes
         url: https://dapperdox.io/docs/customisation
 common:
+  - type: IssueTracker
+    url: https://github.com/DapperDox/dapperdox/issues
+  - type: Releases
+    url: https://github.com/DapperDox/dapperdox/releases
+  - type: License
+    name: GPL-3.0
+    url: https://github.com/DapperDox/dapperdox/blob/master/LICENSE
   - type: DomainSecurity
     url: security/dapperdox-domain-security.yml
   - type: Website

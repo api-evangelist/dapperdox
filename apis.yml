@@ -25,6 +25,13 @@ tags:
   - API Reference
   - Documentation
   - Developer Tools
+  - Open-Source
+  - OpenAPI
+  - Static Site
+tags_raw:
+  - API Reference
+  - Documentation
+  - Developer Tools
   - Open Source
   - OpenAPI
   - Static Site
@@ -43,6 +50,11 @@ apis:
       support for themes, overlays, and cross-referencing across specifications.
     humanURL: https://dapperdox.io/
     tags:
+      - Documentation
+      - Developer Tools
+      - Open-Source
+      - OpenAPI
+    tags_raw:
       - Documentation
       - Developer Tools
       - Open Source

@@ -8,6 +8,18 @@ description: >-
   DapperDox is a developer tool rather than a hosted service, so it does not
   expose its own public web API.
 type: Index
+deliveryModel:
+  model: self-hosted
+  license: GPL-3.0
+  open_source: true
+  commercial: false
+  callable_host: false
+  label: Self-hosted open source · you run it yourself
+  confidence: high
+  source:
+  - license
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: freemium
   onboarding: unknown

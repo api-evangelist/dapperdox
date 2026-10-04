@@ -37,7 +37,7 @@ tags:
   - API Reference
   - Documentation
   - Developer Tools
-  - Open-Source
+  - Open Source
   - OpenAPI
   - Static Sites
 tags_raw:
@@ -47,6 +47,7 @@ tags_raw:
   - Open Source
   - OpenAPI
   - Static Site
+  - Open-Source
 url: >-
   https://raw.githubusercontent.com/api-evangelist/dapperdox/refs/heads/main/apis.yml
 created: '2026-03-27'
@@ -64,13 +65,14 @@ apis:
     tags:
       - Documentation
       - Developer Tools
-      - Open-Source
+      - Open Source
       - OpenAPI
     tags_raw:
       - Documentation
       - Developer Tools
       - Open Source
       - OpenAPI
+      - Open-Source
     properties:
       - type: Documentation
         url: https://dapperdox.io/docs/

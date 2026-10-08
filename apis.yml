@@ -83,6 +83,12 @@ apis:
       - type: Themes
         url: https://dapperdox.io/docs/customisation
 common:
+  - type: Plans
+    url: plans/dapperdox-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/dapperdox-rate-limits.yml
+  - type: FinOps
+    url: finops/dapperdox-finops.yml
   - type: IssueTracker
     url: https://github.com/DapperDox/dapperdox/issues
   - type: Releases

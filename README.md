@@ -1,4 +1,4 @@
-# DapperDox (dapperdox)
+# DapperDox
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,50 +66,107 @@
 
 DapperDox is an open-source API documentation generator that creates beautiful, customizable reference documentation from OpenAPI specifications. It supports theming, overlays, and cross-referencing across multiple API specifications, making it suitable for teams managing complex API ecosystems. DapperDox is a developer tool rather than a hosted service, so it does not expose its own public web API.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/dapperdox/refs/heads/main/apis.yml)
+**Areas:** API Reference · Documentation · Developer Tools · Open Source · OpenAPI · Static Sites
 
-## Scope
+## DapperDox on APIs.io
 
-- **Type:** Index
-- **xType:** opensource
+Everything profiled for DapperDox is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/dapperdox/](https://apis.io/providers/dapperdox/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (1)
 
- - API Reference, Documentation, Developer Tools, Open Source, OpenAPI, Static Site
+- [DapperDox](https://apis.io/apis/dapperdox/dapperdox/) — DapperDox is an open-source API documentation generator that renders beautiful, customizable reference docs from OpenAPI specifications with support for…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2026-03-27
-- **Modified:** 2026-04-28
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Vocabulary (1)
 
-### DapperDox
-DapperDox is an open-source API documentation generator that renders beautiful, customizable reference docs from OpenAPI specifications with support for themes, overlays, and cross-referencing across specifications.
+The provider's domain terms, defined.
 
-**Human URL:** [https://dapperdox.io/](https://dapperdox.io/)
+- [DapperDox Vocabulary](https://apis.io/vocabularies/dapperdox/dapperdox-vocabulary/)
 
-#### Tags:
+#### Security (1)
 
- - Documentation, Developer Tools, Open Source, OpenAPI
+Authentication, trust centre, and vulnerability disclosure.
 
-#### Properties
+- [Dapperdox Domain Security](https://apis.io/security/dapperdox/dapperdox-domain-security/)
 
-- [Documentation](https://dapperdox.io/docs/)
-- [Getting Started](https://dapperdox.io/docs/getting-started/)
-- [GitHub Repository](https://github.com/DapperDox/dapperdox)
-- [Themes](https://dapperdox.io/docs/customisation)
+#### Plans and pricing (1)
 
-## Common Properties
+Published plans, tiers and prices.
+
+- [Dapperdox Plans Pricing](https://apis.io/plans/dapperdox/dapperdox-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Dapperdox Rate Limits](https://apis.io/rate-limits/dapperdox/dapperdox-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Dapperdox Finops](https://apis.io/finops/dapperdox/dapperdox-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://dapperdox.io/)
 - [Documentation](https://dapperdox.io/docs/)
-- [GitHub Organization](https://github.com/DapperDox)
-- [GitHub Repository](https://github.com/DapperDox/dapperdox)
-- [Vocabulary](vocabulary/dapperdox-vocabulary.yml)
+- [GitHub](https://github.com/DapperDox)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 14.9** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 13.6 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 10.7 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/dapperdox/](https://apis.io/providers/dapperdox/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for DapperDox: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/dapperdox/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
